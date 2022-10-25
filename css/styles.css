@@ -1,7 +1,13 @@
-/* Created by: Mr. Coxall
+/* Created by: Julienka Sohal
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
 
 .mdl-layout__header-row {
   align-items: center;
@@ -22,18 +28,14 @@
 }
 
 body {
-  background-color: rgb(154 211 232);
+  background-color: lightsteelblue;
 }
 
-p {
-  color: black;
-  font-family: Helvetica, Arial, sans-serif;
-  font-weight: bold;
-  font-size: 1.5rem;
-  padding-top: 15pt;
+.demo-list-item {
+  width: 300px;
 }
 
-img {
-  float: right;
-  margin-right: 15px;
+#images {
+  width: 300px;
+  height: 157px;
 }
