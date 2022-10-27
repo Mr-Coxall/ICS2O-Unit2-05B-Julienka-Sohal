@@ -1,7 +1,5 @@
-# ICS2O-Unit2-05B
+# ICS2O-Unit2-05B-Julienka-Sohal
 
-[![Mr Coxall's Super Linter](https://github.com/Julienka-Sohal/ICS2O-Unit2-05B/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Julienka-Sohal/ICS2O-Unit2-05B/actions/)
+[![Mr Coxall's Super Linter](https://github.com/Mr-Coxall/ICS2O-Unit2-05B-Julienka-Sohal/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Julienka-Sohal/ICS2O-Unit2-05B-Julienka-Sohal/actions/)
 
-[![Run on Repl.it](https://repl.it/badge/github/Julienka-Sohal/ICS2O-Unit2-05B)](https://repl.it/github/Julienka-Sohal/)
-
-This site can be found at: [https://Julienka-Sohal.github.io/ICS2O-Unit2-05B/](https://Julienka-Sohal.github.io/ICS2O-Unit2-05B/)
+This site can be found at: [https://Mr-Coxall.github.io/ICS2O-Unit2-05B-Julienka-Sohal/](https://Mr-Coxall.github.io/ICS2O-Unit2-05B-Julienka-Sohal/)
